@@ -27,7 +27,7 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 > [!WARNING]
 > This section is currently *Work In Progress*. Here I will list all my projects, their respective repositories<br>
 > and their live examples you can freely explore on Vercel. This process takes a bit of time.<br>
-> I will list them all from the *newer* to the *oldest* one. Creation date included.
+> I will list them all from the *newest* to the *oldest*. Creation date included.
 
 
 <br>
