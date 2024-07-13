@@ -24,11 +24,9 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 <br>
 
 # » Projects / Portfolio
-> [!WARNING]
-> This section is currently *Work In Progress*. Here I will list all my projects, their respective repositories<br>
-> and their live examples you can freely explore on Vercel. This process takes a bit of time.<br>
-> I will list them all from the *newest* to the *oldest*. Creation date included.
-
+- Coming soon: *LogoFlix* • *PhotoGram* • *Plot Builder For Creative Minds* • ( *Other personal projects* )
+- **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `JAVASCRIPT`
+- **Lorem Site** ( [Repository](https://github.com/fabriziafisichella/ipsum-lorem-site) + [Live Preview](https://ipsum-lorem-site.vercel.app) ) • *Mar 28, 2024* • `HTML` `CSS`
 
 <br>
 
