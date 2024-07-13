@@ -26,7 +26,7 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 # » Projects / Portfolio
 - **Plot Builder For Creative Minds** ( coming soon... ) • *Jul 11, 2024* • `REACT` `NEXT` `TS` `GEMINI` `SASS`<br>
   <sup>(*Gemini will stop working on this project between September and October 2024*)</sup>
-- **PhotoGram** ( coming soon... ) • *Jun 23, 2024* • `REACT` `NEXT` `SASS`
+- **PhotoGram** ( [Repository](https://github.com/fabriziafisichella/photogram/tree/main) + [Live Preview](https://photogram-lake.vercel.app) ) • *Jun 23, 2024* • `REACT` `NEXT` `SASS`
 - **LogoFlix** ( [Repository](https://github.com/fabriziafisichella/logoflix) + [Live Preview](https://logoflix.vercel.app) ) • *Jun 9, 2024* • `REACT` `SASS` `VITE`
 - **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `js`
 - **Lorem Site** ( [Repository](https://github.com/fabriziafisichella/ipsum-lorem-site) + [Live Preview](https://ipsum-lorem-site.vercel.app) ) • *Mar 28, 2024* • `HTML` `CSS`
