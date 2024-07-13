@@ -24,9 +24,10 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 <br>
 
 # » Projects / Portfolio
-- Coming soon: *PhotoGram* • *Plot Builder For Creative Minds* • ( *Other personal projects* )
-- **LogoFlix** ( [Repository](https://github.com/fabriziafisichella/logoflix) + [Live Preview](https://logoflix.vercel.app) ) • *Jun 9, 2024* • `REACT.JS` `SASS` `VITE`
-- **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `JAVASCRIPT`
+- **Plot Builder For Creative Minds** ( coming soon... ) • *Jul 11, 2024* • `REACT` `NEXT` `TS` `GEMINI` `SASS`
+- **PhotoGram** ( coming soon... ) • *Jun 23, 2024* • `REACT` `NEXT` `SASS`
+- **LogoFlix** ( [Repository](https://github.com/fabriziafisichella/logoflix) + [Live Preview](https://logoflix.vercel.app) ) • *Jun 9, 2024* • `REACT` `SASS` `VITE`
+- **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `js`
 - **Lorem Site** ( [Repository](https://github.com/fabriziafisichella/ipsum-lorem-site) + [Live Preview](https://ipsum-lorem-site.vercel.app) ) • *Mar 28, 2024* • `HTML` `CSS`
 
 <br>
