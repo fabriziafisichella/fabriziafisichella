@@ -24,7 +24,7 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 <br>
 
 # » Projects / Portfolio
-- **Plot Builder For Creative Minds** ( coming soon... ) • *Jul 11, 2024* • `REACT` `NEXT` `TS` `GEMINI` `SASS`<br>
+- **Plot Builder For Creative Minds** ( [Repository](https://github.com/fabriziafisichella/plot-builder) + [Live Preview](https://plot-builder.vercel.app) ) • *Jul 11, 2024* • `REACT` `NEXT` `TS` `GEMINI` `SASS`<br>
   <sup>(*Gemini will stop working on this project between September and October 2024*)</sup>
 - **PhotoGram** ( [Repository](https://github.com/fabriziafisichella/photogram/tree/main) + [Live Preview](https://photogram-lake.vercel.app) ) • *Jun 23, 2024* • `REACT` `NEXT` `SASS`
 - **LogoFlix** ( [Repository](https://github.com/fabriziafisichella/logoflix) + [Live Preview](https://logoflix.vercel.app) ) • *Jun 9, 2024* • `REACT` `SASS` `VITE`
