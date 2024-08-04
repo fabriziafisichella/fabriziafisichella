@@ -9,7 +9,7 @@
 
 <br>
 
-I am an _**Entry Level Software Developer**_ who loves discovering new methods to solve problems.<br>
+I am a _**Junior Software Developer**_ who loves discovering new methods to solve problems.<br>
 The best way to learn for me is through *practice*, and my forte is to look for the easiest and most effective path to achieve a goal.<br>
 I am a *creative person* who likes to experiment all the time, I am curious and I don't like to stay still.<br>
 If I have nothing to do, I'd rather make it up myself!<br>
