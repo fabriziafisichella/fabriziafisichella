@@ -24,11 +24,12 @@ The game will be for anyone to play, though. Soon I will tell you more, I promis
 <br>
 
 # » Projects / Portfolio
+- **Take My Card, Please!** ( [Repository](https://github.com/fabriziafisichella/take-my-card-please) + [Live Preview](https://take-my-card-please.vercel.app) ) • *Aug 04, 2024* • `NEXT` `REACT` `SASS`
 - **Plot Builder For Creative Minds** ( [Repository](https://github.com/fabriziafisichella/plot-builder) + [Live Preview](https://plot-builder.vercel.app) ) • *Jul 11, 2024* • `NEXT` `TYPESCRIPT` `GEMINI`<br>
   <sup>(*Gemini will stop working on this project between September and October 2024*)</sup>
 - **PhotoGram** ( [Repository](https://github.com/fabriziafisichella/photogram/tree/main) + [Live Preview](https://photogram-lake.vercel.app) ) • *Jun 23, 2024* • `REACT` `NEXT` `SASS`
 - **LogoFlix** ( [Repository](https://github.com/fabriziafisichella/logoflix) + [Live Preview](https://logoflix.vercel.app) ) • *Jun 9, 2024* • `REACT` `SASS` `VITE`
-- **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `js`
+- **GameScapes** ( [Repository](https://github.com/fabriziafisichella/gamescapes) + [Live Preview](https://gamescapes.vercel.app) ) • *May 18, 2024* • `HTML` `CSS` `JS`
 - **Lorem Site** ( [Repository](https://github.com/fabriziafisichella/ipsum-lorem-site) + [Live Preview](https://ipsum-lorem-site.vercel.app) ) • *Mar 28, 2024* • `HTML` `CSS`
 
 <br>
