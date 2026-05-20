@@ -1,4 +1,4 @@
-![Cover](https://media.licdn.com/dms/image/v2/D4D16AQGky8gQXwONnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719305831567?e=1732752000&v=beta&t=TPSpX0RAudga_fSPzdhOGyNtFCTDa1TfmPlk_a1oYCI)
+![Cover](https://media.licdn.com/dms/image/v2/D4D16AQGky8gQXwONnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719305831567?e=1732752000&v=beta&t=TPSpX0RAudga_fSPzdhOGyNtFCTDa1TfmPlk_a1oYCI](https://media.licdn.com/dms/image/v2/D4D16AQGky8gQXwONnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719305831567?e=1781136000&v=beta&t=KuYakBFQj2S5H8BIC3K4Bn8Cnw0eiIxMO1dzZoZy-nE)
 
 # » About Me 
 ### Fabrizia ( *Fei* ) Fisichella ` She/Her `
